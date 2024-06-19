@@ -24,25 +24,37 @@ Click for the [Demo](https://gemini-co-harsh.vercel.app/)
 
 
 Installation
+
+
 Follow these steps to get a local copy up and running:
 
 Prerequisites
+
+
 Node.js and npm installed on your local machine. You can download them from here.
 
 Clone the Repository
 
 #git clone https://github.com/harshal-eagle/Gemini.git
+
 #cd Gemini
 
 Install Dependencies
-npm install
+
+
+#npm install
 
 Set Up Google API
+
+
 Go to the Google Cloud Console.
+
 
 Create a new project or select an existing project.
 
+
 Enable the required APIs (e.g., Google Calendar API, Google Drive API).
+
 
 Set up OAuth 2.0 credentials and obtain the Client ID and Client Secret.
 
